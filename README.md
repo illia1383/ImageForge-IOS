@@ -12,11 +12,8 @@ Welcome to ImageForge a place for you to generate your creativity
 
 **    Register as a new user **
 
-<video 
-width ="200"
-src="![ezgif com-video-to-gif](https://github.com/illia1383/imageGeneratorApp/assets/122395038/1c7f917b-88e3-4c01-b447-138340de4858)"
+![ezgif com-resize](https://github.com/illia1383/imageGeneratorApp/assets/122395038/d7fdfc26-f7f9-414d-b350-e0041c75d7f4)
 
-</video>
 
 
 
