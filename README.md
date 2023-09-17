@@ -12,7 +12,9 @@ Welcome to ImageForge a place for you to generate your creativity
 
 **    Register as a new user **
 
-![ezgif com-video-to-gif](https://github.com/illia1383/imageGeneratorApp/assets/122395038/cd8c5d41-2fe2-4e72-9448-6b91dec35c02)
+<video src="![ezgif com-video-to-gif](https://github.com/illia1383/imageGeneratorApp/assets/122395038/1c7f917b-88e3-4c01-b447-138340de4858)
+"
+</video>
 
 
 
