@@ -12,6 +12,8 @@ Welcome to ImageForge a place for you to generate your creativity
 
 **    Register as a new user **
 
-< video src="[https://user-images.githubusercontent.com/16434638/125166121-088f0e80-e192-11eb-8210-7245b1fe4f62.mp4](https://github.com/illia1383/imageGeneratorApp/assets/122395038/69539d2e-c35f-452c-8013-4478279cd36b)https://github.com/illia1383/imageGeneratorApp/assets/122395038/69539d2e-c35f-452c-8013-4478279cd36b" width="50" height="200">
+<video width="50" height="200" controls>
+  <source src="https://github.com/illia1383/imageGeneratorApp/assets/122395038/69539d2e-c35f-452c-8013-4478279cd36b.mp4" type="video/mp4">
+</video>
 
 
